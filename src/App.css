@@ -28,6 +28,14 @@
   color: #61dafb;
 }
 
+.addButton {
+  background-color: #19e107;
+}
+
+.removeButton {
+  background-color:#dc0e03; 
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
